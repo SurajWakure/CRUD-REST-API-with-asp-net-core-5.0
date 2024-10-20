@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductCoreService_DOTNET5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ae1dac311c87575e465a2798503d68329ab7371")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductCoreService_DOTNET5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductCoreService_DOTNET5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
